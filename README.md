@@ -1,1 +1,1 @@
-# oop_uni_java
+# This is Assignment 1 of Object Oriented Programming Java
